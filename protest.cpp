@@ -33,3 +33,5 @@ int main()
     cout<<"width:"<<square.getsquarewidth()<<endl;//输出设置的宽度
     return 0;
 }
+
+此程序可以分为相对独立的三个部分，一是对 area 类的定义，二是对 squarearea 子类及子类函数的定义，三是主函数 main()。对于 area 类中受保护的成员 width 可以通过子类进行访问。
