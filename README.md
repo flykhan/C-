@@ -102,3 +102,7 @@ void area::setwidth(double wid)
 | strcmp(s1,s2) | 比较字符串 s1 和 s2 的长度，相同为 0；s1 < s2 为 -1；s1 > s2 为 1 |
 | strchr(s1,ch) | 返回一个指针，指向 s1 中字符 ch 第一次出现的位置             |
 | strstr(s1,s2) | 返回一个指针，指向 s1 中字符串 s2 第一次出现的位置           |
+
+##### C++标准库的string类提供了更丰富的功能：
+
+![img](https://doc.shiyanlou.com/courses/2752/1443970/500dfb3ca43b6ef8b1d778d9fe7aa220-0)
